@@ -2,10 +2,9 @@
 from ibm_watson import LanguageTranslatorV3
 from ibm_cloud_sdk_core.authenticators import IAMAuthenticator
 
-URL_TRANS = "https://api.us-south.language-translator.watson.cloud.ibm.com" \
-            "/instances/e1859c18-ec72-432c-b232-732d19cc7318"
+URL_TRANS = ""
 
-API_KEY_TRANS = "AaT9ZT2BFDMOMFdghDdZxTOlXn_6bDh0E_7gQAZxmUwq"
+API_KEY_TRANS = ""
 
 VERSION_TRANS = '2018-05-01'
 
